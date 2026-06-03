@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+ultralytics
+supervision
+opencv-python
+pandas
+streamlit
+pytest
